@@ -18,20 +18,21 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 - Microsoft Azure 
 - Remote Desktop Connection
-- Active Directory Domain Services
 - PowerShell/Command Prompt
+- Active Directory Domain Services
+
 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
 - Windows 10 
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2> Azure Setup </h2>
 
 1. Create a Microsoft Azure account. 
 2. Start a free trial or choose the pay as you go option. 
 
-<h2>Deployment and Configuration Steps</h2>
+<h2> Active Directory Deployment and Configuration Steps</h2>
 
 1. Create a Domain Controller virtual machine(VM1) using Windows Server 2022. Name it whatever you would like, I named mine **Roman-Reigns**.
 2. Create a username and password and do not forget it. I am using "*tripleh*" as my username for this demonstration (also take note of the resource group and virtual network that is created)
