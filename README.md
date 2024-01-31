@@ -16,19 +16,20 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
+- PowerShell ISE
 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+1. Create a Domain Controller virtual machine for Windows Server 2022 (take note of the resource group and virtual network that is created)
+![AD1](https://github.com/mehmhacimic/configure-ad/assets/157438082/d4f06a65-a473-456b-b143-de8ece17f619)
+2.
+3. 
+4. 
 
 <h2>Deployment and Configuration Steps</h2>
 
