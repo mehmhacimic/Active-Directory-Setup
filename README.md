@@ -77,9 +77,18 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 14. Enter the log in credentials for your local admin user(*tripleh*) when prompted to confirm the changes.
 15. Log back into **Roman-Regins** and confirm that **Rhea-Ripley** was added to the domain.
     > Active Directory Users and Computers > WWE.com > Computers
+16. Now that you have added your client to the domain controller, you're ready to start customizing Active Directory to fit you or your organization's needs and wants. Thank you for reading and have fun!
 
+  
 
+    **REFERENCES TO MY VM AND USER NAMES BELOW**
 
+![image](https://github.com/mehmhacimic/configure-ad/assets/157438082/a3075deb-f36a-436b-a1db-db9557a7d742)
+
+![image](https://github.com/mehmhacimic/configure-ad/assets/157438082/c27e8cc1-3924-4cbf-afff-401d6dc1577f)
+
+Triple H
+![image](https://github.com/mehmhacimic/configure-ad/assets/157438082/93408d10-9072-494b-8bfc-74d4d247e1e6)
 
 
 
