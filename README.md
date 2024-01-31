@@ -81,7 +81,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
   
 
-    **REFERENCES TO MY VM AND USER NAMES BELOW**
+    **REFERENCES TO THE VM NAMES AND USER I USED BELOW**
 
 ![image](https://github.com/mehmhacimic/configure-ad/assets/157438082/a3075deb-f36a-436b-a1db-db9557a7d742)
 
