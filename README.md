@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  ![azure](https://github.com/mehmhacimic/configure-ad/assets/157438082/5b36965b-bdc4-446c-97f7-a3c47f1683d0)
+![azure](https://github.com/mehmhacimic/configure-ad/assets/157438082/5b36965b-bdc4-446c-97f7-a3c47f1683d0)
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/> 
 
@@ -59,13 +59,24 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 8. Restart VM1 and log back in as wwe.com\tripleh
 9. Now, you can go into Active Directory Users and Computers(ADUC) and customize your directory to fit your needs.
-10. For each client computer, you will need to add it to your domain. Go into the Azure Portal and set VM2's(mine is named Rhea-Ripley) DNS settings to VM1's private IP address.
+10. For this demonstration, I will add a user with Domain admin priveleges. Create an Organizational Unit(OU) and name it whatever you want. I chose PRODUCERS.
+11. Create a new user and again, use whatever name you want, I will use Jason Jordan. Set a username and password and take note of them.
+
+    ![AD9](https://github.com/mehmhacimic/configure-ad/assets/157438082/a2950570-f9df-4384-b384-df815f19291b)
+
+12. Add your user to the Domain Admins security group.
+
+13. For each client computer, you will need to add it to your domain. Go into the Azure Portal and set VM2's(mine is named Rhea-Ripley) DNS settings to VM1's private IP address.
  > Network interface
     > DNS servers
       > Custom
-       > Insert VM1's private IP address into the "Add DNS servers" field and hit save. 
+       > Insert VM1's private IP address into the "Add DNS servers" field and hit save.
 
 ![AD10](https://github.com/mehmhacimic/configure-ad/assets/157438082/10432251-b00e-4dc4-8a0f-e833544bc860)
+
+11. Restart VM2 from the Azure Portal. 
+12. Log into VM2 as your original local admin user(tripleh) and join it to your domain.
+    > Right click Windows Start menu > System > Rename this PC(advanced) > Computer name > change > Domain > wwe.com(or whatever you named your domain) > OK
 
 
 
