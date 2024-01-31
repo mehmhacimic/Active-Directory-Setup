@@ -63,7 +63,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 9. Restart **Roman-Reigns** and log back in as *WWE.com\tripleh*
 10. Now, you can go into Active Directory Users and Computers(ADUC) and customize your directory to fit your needs.
-11. You will need to add each client/VM you have to your domain. Go into the Azure Portal and set **Rhea-Ripley**'s DNS settings to Roman-Reigns' private IP address.
+11. You will need to add each client/VM you have to your domain. Go into the Azure Portal and set **Rhea-Ripley**'s DNS settings to **Roman-Reigns**' private IP address.
  > Network interface
     > DNS servers
       > Custom
