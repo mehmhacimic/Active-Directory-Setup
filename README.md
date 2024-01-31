@@ -53,7 +53,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 
 6. Now log into VM2 and ping **Roman-Reigns'** private IP address to ensure connectivity between the Client and the Domain Controller.
-7. Now, log back into Roman-Reigns and open up Server Manager(if not already opened). Click on 'Add roles and features' and continue until prompted to select server roles. Check off 'Active Directory Domain Services' and hit install.
+7. Now, log back into **Roman-Reigns** and open up Server Manager(if not already opened). Click on 'Add roles and features' and continue until prompted to select server roles. Check off 'Active Directory Domain Services' and hit install.
 
 ![AD7](https://github.com/mehmhacimic/configure-ad/assets/157438082/bc4260a6-1509-4b03-9d33-c27aba3ca002)
 
