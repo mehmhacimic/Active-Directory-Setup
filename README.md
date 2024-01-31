@@ -63,7 +63,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
  > Network interface
     > DNS servers
       > Custom
-        > Insert VM1's private IP address into the "Add DNS servers" field and hit save. 
+       > Insert VM1's private IP address into the "Add DNS servers" field and hit save. 
 
 ![AD10](https://github.com/mehmhacimic/configure-ad/assets/157438082/10432251-b00e-4dc4-8a0f-e833544bc860)
 
