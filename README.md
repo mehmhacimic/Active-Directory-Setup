@@ -1,7 +1,7 @@
 
 <p align="center">
 
-![azure](https://github.com/mehmhacimic/configure-ad/assets/157438082/5b36965b-bdc4-446c-97f7-a3c47f1683d0)
+![azure](https://github.com/mehmhacimic/Active-Directory-Setup/assets/157438082/5b36965b-bdc4-446c-97f7-a3c47f1683d0)
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/> 
 
