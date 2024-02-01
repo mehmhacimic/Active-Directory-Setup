@@ -6,8 +6,8 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/> 
 
 
-<h1>Active Directory Deployed in Microsoft Azure </h1>
-This tutorial outlines the implementation of Active Directory within Azure Virtual Machines.<br />
+<h1>Easy Azure Active Directory Setup for Beginners</h1>
+This tutorial will guide you through creating virtual machines, installing Active Directory, and managing users and groups. <br />
 
 
 <h2>Video Demonstration</h2>
