@@ -7,7 +7,7 @@
 
 
 <h1>Easy Azure Active Directory Setup for Beginners</h1>
-This tutorial will guide you through creating virtual machines, installing Active Directory, and managing users and groups. <br />
+This tutorial will guide you through creating virtual machines and installing Active Directory. <br />
 
 
 <h2>Video Demonstration</h2>
