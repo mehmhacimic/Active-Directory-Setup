@@ -12,7 +12,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Learn how to setup Active Directory in Azure in less than 30 minutes!]([https://www.youtube.com/watch?v=iAgqsEq3DPo](https://youtu.be/iAgqsEq3DPo?si=eJbdMrjhZ9G-xMTS))
+- ### [YouTube: Learn how to setup Active Directory in Azure in less than 30 minutes!](https://youtu.be/iAgqsEq3DPo?si=eJbdMrjhZ9G-xMTS)
 
 <h2>Environments and Technologies Used</h2>
 
