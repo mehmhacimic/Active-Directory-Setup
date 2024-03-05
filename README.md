@@ -36,8 +36,9 @@ This tutorial will guide you through creating virtual machines and installing Ac
 
 1. Create a Domain Controller virtual machine(VM1) using Windows Server 2022. Name it whatever you would like, I named mine **Roman-Reigns**.
 2. Create a username and password and do not forget it. I am using "*tripleh*" as my username for this demonstration (also take note of the resource group and virtual network that is created)
-   
-![AD1](https://github.com/mehmhacimic/configure-ad/assets/157438082/d4f06a65-a473-456b-b143-de8ece17f619)
+
+<img width="340" alt="AD1" src="https://github.com/mehmhacimic/configure-ad/assets/157438082/d4f06a65-a473-456b-b143-de8ece17f619"> 
+
 
 3. After the Domain Controller virtual machine(VM1) finishes deploying, create a Client virtual machine(VM2) using Windows 10 and again, name it whatever you want, I named this one **Rhea-Ripley**. Make sure you assign it to the same resource group and virtual network as the Domain Controller VM.
 
